@@ -192,7 +192,7 @@ h4{
 
   .banar-2{
       background-image: url(social-bg.png);
-      opacity: 0.2;
+      filter:brightness(0.5);
       height: 670px;
       width: 1930px;
       margin-left: 15px;
